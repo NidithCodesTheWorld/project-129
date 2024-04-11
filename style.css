@@ -1,0 +1,21 @@
+body{
+
+background-size: cover;
+
+}
+
+.heading{
+
+margin-top: 0;
+width: 100%;
+font-size: 25px;
+
+}
+
+#songName{
+
+width: max-content;
+font-family: cursive;
+font-size: 30px;
+
+}
